@@ -1,6 +1,6 @@
 # News Today
 
-News Today is a Flutter application that provides users with the latest news.
+News Today is an app that provides users with the latest news.
 
 ## Features
 
